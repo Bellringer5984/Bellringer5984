@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hi there, I'm Caleb!
 
-<!--
-**Bellringer5984/Bellringer5984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Based in Tulsa, Oklahoma
 
-Here are some ideas to get you started:
+🎓 Graduated from Fullstack Academy in July 2023
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Aspiring Software Developer passionate about building scalable and efficient applications
+
+🛠 Skills: JavaScript, React, Node.js, Express, SQL
+
+📚 Currently diving deep into cloud technologies and microservices architecture
+
+🔍 Actively seeking Software Developer roles—Let's connect!
+
+📧 Reach out to me at [cjbellmyer5984@gmail.com]
