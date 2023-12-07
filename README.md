@@ -6,7 +6,7 @@
 
 👨‍💻 Aspiring Software Developer passionate about building scalable and efficient applications
 
-🛠 Skills: JavaScript, React, Node.js, Express, SQL
+🛠 Skills: JavaScript, React, Node.js, Express, SQL, Python
 
 📚 Currently diving deep into cloud technologies and microservices architecture
 
